@@ -3,8 +3,8 @@
 
 ## Desenvolvido por: 
 
-**Matheus Gomes Costa Teixeira**
-**Erick Bruno Ferreira dos Santos**
+**Matheus Gomes Costa Teixeira**<p>
+**Erick Bruno Ferreira dos Santos**<p>
 **Luan Rodrigues de Souza**
 
 
