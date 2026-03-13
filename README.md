@@ -1,11 +1,17 @@
 # Interface-e-Jornada-do-Usuario
-
-
-
 # Exercício 01 - Wireframe (A2)
 
+## Desenvolvido por: 
+
+**Matheus Gomes Costa Teixeira**
+**Erick Bruno Ferreira dos Santos**
+**Luan Rodrigues de Souza**
+
+
 ## 📚 Sobre o Projeto
-Este repositório contém o wireframe desenvolvido para a disciplina de **Design de Interfaces** (ou insira o nome da sua disciplina aqui). O foco do projeto é uma plataforma voltada para a área de **Educação**, priorizando a arquitetura de informação e o fluxo do usuário.
+
+Este repositório contém o wireframe de baixa fidelidade desenvolvido para a disciplina de **Interface-e-Jornada-do-Usuario**. O foco do projeto é uma plataforma voltada para a área de **Educação**, priorizando a arquitetura de informação, fluxo navegável, clareza funcional,
+flexibilidade de uso, tarefa principal do usuário e validação por teste com usuários.
 
 ---
 
@@ -26,4 +32,3 @@ Para visualizar e interagir com o projeto, escolha uma das opções abaixo:
 
 ---
 
-> **Dica:** Para uma melhor experiência no GitHub, recomendo tirar um print da sua tela principal no Figma e salvar como `screenshot.png` na raiz do seu repositório, exibindo-a aqui com o comando `![Preview](screenshot.png)`.
