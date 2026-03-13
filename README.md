@@ -1,4 +1,7 @@
-<h1>                                      Interface-e-Jornada-do-Usuario                        <h1>
+<div align="center">
+<h1>Interface-e-Jornada-do-Usuario</h1>
+</div>
+
 # Exercício 01 - Wireframe (A2)
 
 ## Desenvolvido por: 
