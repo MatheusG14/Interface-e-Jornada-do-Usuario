@@ -2,9 +2,11 @@
 <h1>Interface-e-Jornada-do-Usuario</h1>
 </div>
 
+<div align="center">
 <h1>Painel Administrativo de Usuários e Permissões<h1></h1>
+</div>
 
-📚 Sobre o Projeto
+📚 Sobre o Projeto:
 Este projeto apresenta a solução de interface (Wireframe) para um Módulo de Gestão de Usuários e Permissões de uma plataforma corporativa. O foco central é oferecer eficiência operacional para administradores de sistemas, permitindo o controle rigoroso de acessos com segurança e rapidez.
 
 A interface foi projetada para mitigar erros críticos em ações sensíveis (como exclusões ou alterações de nível de acesso) e garantir que grandes volumes de dados sejam legíveis e acionáveis, mesmo sob pressão de tempo.
