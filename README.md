@@ -1,6 +1,13 @@
-# 🖥️ Interface e Jornada do Usuário
-## **Módulo: Painel Administrativo de Usuários e Permissões**
+# <h1> Interface e Jornada do Usuário<h1>
 
+## **Painel Administrativo de Usuários e Permissões**
+
+### 👨‍💻 Equipe de Desenvolvimento
+* **Matheus Gomes Costa Teixeira**
+* **Erick Bruno Ferreira dos Santos**
+* **Luan Rodrigues de Souza**
+* **Tiago Mendes Ferreira**
+* **Leonardo Teles do Nascimento**
 ---
 
 ### 📚 Sobre o Projeto
@@ -12,7 +19,7 @@ A interface foi desenhada para:
 
 ---
 
-### 👥 Perfil do Usuário (Persona)
+### 👥 Perfil do Usuário
 * **Perfil:** Administrador(a) de Sistemas.
 * **Contexto:** Profissional experiente com alta responsabilidade e baixa tolerância a erros.
 * **Necessidade:** Interface limpa, busca rápida e fluxos de confirmação seguros.
@@ -30,10 +37,6 @@ A interface foi desenhada para:
 ---
 
 ### 🔗 Links do Figma
-
-> [!TIP]
-> Utilize os links abaixo para explorar o projeto em detalhes:
-
 * 🚀 [**Visualizar Protótipo Interativo**](https://www.figma.com/proto/W09GwSzzs3Mk6AanRdzFbc/Painel-Administrativo-de-Usu%C3%A1rios-e-Permiss%C3%B5es---Exerc%C3%ADcio-2-UX?node-id=5-131&t=cYDwV9ZqgnGCViEq-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A130&starting-point-node-id=255%3A365&show-proto-sidebar=1)
   *Simule a tarefa de localizar um usuário e alterar seu nível de permissão.*
 * 🛠️ [**Acessar Arquivo de Design (Figma)**](https://www.figma.com/design/W09GwSzzs3Mk6AanRdzFbc/Painel-Administrativo-de-Usu%C3%A1rios-e-Permiss%C3%B5es---Exerc%C3%ADcio-2-UX?node-id=5-131&t=407JNsREDhAZ6amp-1)
@@ -52,12 +55,5 @@ A interface foi desenhada para:
 ### ⚙️ Ferramentas Utilizadas
 * **Figma:** Planejamento visual, estruturação de componentes e prototipagem de média fidelidade.
 * **Metodologia:** Foco em Arquitetura de Informação e Jornada do Usuário.
-
----
-
-### 👨‍💻 Equipe de Desenvolvimento
-* **Matheus Gomes Costa Teixeira**
-* **Erick Bruno Ferreira dos Santos**
-* **Luan Rodrigues de Souza**
 
 ---
