@@ -2,12 +2,12 @@
 <h1>Interface-e-Jornada-do-Usuario</h1>
 </div>
 
-# 🖥️ <div align="center">
+#<div align="center">
 <h1>Interface e Jornada do Usuário</h1>
 
 </div>
 
-## **Módulo: Painel Administrativo de Usuários e Permissões**
+## **Painel Administrativo de Usuários e Permissões**
 
 ---
 
@@ -42,9 +42,9 @@ A interface foi desenhada para:
 > [!TIP]
 > Utilize os links abaixo para explorar o projeto em detalhes:
 
-* 🚀 [**Visualizar Protótipo Interativo**](INSERIR_LINK_AQUI)
+* 🚀 [**Visualizar Protótipo Interativo**]([INSERIR_LINK_AQUI](https://www.figma.com/proto/W09GwSzzs3Mk6AanRdzFbc/Painel-Administrativo-de-Usu%C3%A1rios-e-Permiss%C3%B5es---Exerc%C3%ADcio-2-UX?node-id=199-18&t=cYDwV9ZqgnGCViEq-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A130&starting-point-node-id=255%3A365&show-proto-sidebar=1))
   *Simule a tarefa de localizar um usuário e alterar seu nível de permissão.*
-* 🛠️ [**Acessar Arquivo de Design (Figma)**](INSERIR_LINK_AQUI)
+* 🛠️ [**Acessar Arquivo de Design (Figma)**]([INSERIR_LINK_AQUI](https://www.figma.com/design/W09GwSzzs3Mk6AanRdzFbc/Painel-Administrativo-de-Usu%C3%A1rios-e-Permiss%C3%B5es---Exerc%C3%ADcio-2-UX?m=auto&t=X0fURiGygBm1AICK-1))
   *Inspecione a arquitetura de informação, grids, componentes e hierarquia visual.*
 
 ---
@@ -67,5 +67,7 @@ A interface foi desenhada para:
 * **Matheus Gomes Costa Teixeira**
 * **Erick Bruno Ferreira dos Santos**
 * **Luan Rodrigues de Souza**
+* **Tiago Mendes Ferreira**
+* **Leonardo Teles do Nascimento**
 
 ---
