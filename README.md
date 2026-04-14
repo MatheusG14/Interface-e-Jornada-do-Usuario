@@ -2,70 +2,70 @@
 <h1>Interface-e-Jornada-do-Usuario</h1>
 </div>
 
-🖥️ Interface e Jornada do Usuário
-Painel Administrativo de Usuários e Permissões
-📚 Sobre o Projeto
-Este projeto apresenta a solução de interface (Wireframe) para um Módulo de Gestão de Usuários e Permissões de uma plataforma corporativa.
+# 🖥️ <div align="center">
+<h1>Interface e Jornada do Usuário</h1>
 
-Foco Central: Oferecer eficiência operacional para administradores de sistemas.
+</div>
 
-Objetivo: Permitir o controle rigoroso de acessos com segurança, mitigando erros em ações sensíveis (como exclusões ou alterações de nível).
+## **Módulo: Painel Administrativo de Usuários e Permissões**
 
-Diferencial: Garantir que grandes volumes de dados sejam legíveis e acionáveis sob pressão de tempo.
+---
 
-👥 Perfil do Usuário (Persona)
-Perfil: Administrador(a) de Sistemas.
+### 📚 Sobre o Projeto
+Este projeto apresenta a solução de interface (**Wireframe**) para um sistema de Gestão de Usuários e Permissões de uma plataforma corporativa. O foco central é oferecer **eficiência operacional** para administradores de sistemas, permitindo o controle rigoroso de acessos com segurança e rapidez.
 
-Contexto: Profissional experiente com alta responsabilidade e baixa tolerância a erros.
+A interface foi desenhada para:
+* 🛡️ **Mitigar erros críticos** em ações sensíveis (como exclusões ou alterações de nível de acesso).
+* 📊 **Garantir legibilidade** de grandes volumes de dados, mesmo sob pressão de tempo.
 
-Necessidade: Interface limpa, busca rápida e fluxos de confirmação seguros.
+---
 
-🛠️ Funcionalidades Projetadas
-🔍 Busca e Filtragem Avançada
+### 👥 Perfil do Usuário (Persona)
+* **Perfil:** Administrador(a) de Sistemas.
+* **Contexto:** Profissional experiente com alta responsabilidade e baixa tolerância a erros.
+* **Necessidade:** Interface limpa, busca rápida e fluxos de confirmação seguros.
 
-Localização rápida por nome, e-mail, status ou perfil.
+---
 
-🔐 Gestão de Acessos
+### 🛠️ Funcionalidades Projetadas
 
-Alteração ágil de níveis de permissão com hierarquia visual clara.
+* **🔍 Busca e Filtragem Avançada:** Localização rápida por nome, e-mail, status ou perfil.
+* **🔐 Gestão de Acessos:** Alteração ágil de níveis de permissão com hierarquia visual clara.
+* **🔄 Controle de Ciclo de Vida:** Ativação, suspensão e remoção de contas com camadas de segurança.
+* **📜 Logs de Auditoria:** Visualização rápida do histórico de alterações para garantir conformidade (*compliance*).
+* **⚠️ Segurança em Ações Críticas:** Modais de confirmação e estados de alerta para evitar remoções acidentais.
 
-🔄 Controle de Ciclo de Vida
+---
 
-Ativação, suspensão e remoção de contas com camadas de segurança.
+### 🔗 Links do Figma
 
-📜 Logs de Auditoria
+> [!TIP]
+> Utilize os links abaixo para explorar o projeto em detalhes:
 
-Visualização rápida do histórico de alterações para conformidade (compliance).
+* 🚀 [**Visualizar Protótipo Interativo**](INSERIR_LINK_AQUI)
+  *Simule a tarefa de localizar um usuário e alterar seu nível de permissão.*
+* 🛠️ [**Acessar Arquivo de Design (Figma)**](INSERIR_LINK_AQUI)
+  *Inspecione a arquitetura de informação, grids, componentes e hierarquia visual.*
 
-⚠️ Segurança em Ações Críticas
+---
 
-Modais de confirmação e estados de alerta para evitar remoções acidentais.
+### 📐 Decisões de Design (UX/UI)
 
-🔗 Links do Figma
-[!TIP]
-Escolha uma das opções abaixo para explorar o projeto:
+* **Densidade de Dados Balanceada:** Utilização de tabelas com espaçamento adequado para facilitar a varredura visual de grandes listas.
+* **Feedback Visual de Status:** Cores e ícones distintos para diferenciar usuários **ativos**, **suspensos** ou **pendentes**.
+* **Acessibilidade:** Contrastes em conformidade e *labels* claros para garantir uma operação segura em qualquer condição de iluminação ou tela.
 
-🚀 Visualizar Protótipo Interativo
-Utilize este link para simular a tarefa de localizar um usuário e alterar seu nível de permissão.
+---
 
-🛠️ Acessar Arquivo de Design (Figma)
-Utilize este link para inspecionar a arquitetura de informação, grids, componentes e hierarquia visual.
+### ⚙️ Ferramentas Utilizadas
+* **Figma:** Planejamento visual, estruturação de componentes e prototipagem de média fidelidade.
+* **Metodologia:** Foco em Arquitetura de Informação e Jornada do Usuário.
 
-📐 Decisões de Design (UX/UI)
-Densidade de Dados Balanceada: Uso de tabelas com espaçamento adequado para facilitar a varredura visual de grandes listas.
+---
 
-Feedback Visual de Status: Cores e ícones distintos para diferenciar usuários ativos, suspensos ou pendentes.
+### 👨‍💻 Equipe de Desenvolvimento
+* **Matheus Gomes Costa Teixeira**
+* **Erick Bruno Ferreira dos Santos**
+* **Luan Rodrigues de Souza**
 
-Acessibilidade: Contrastes em conformidade e labels claros para garantir que a operação seja segura em qualquer condição de iluminação ou tela.
-
-⚙️ Ferramentas e Metodologia
-Figma: Planejamento visual, estruturação de componentes e prototipagem de média fidelidade.
-
-Metodologia: Foco total em Arquitetura de Informação e Jornada do Usuário.
-
-👨‍💻 Desenvolvido por:
-Matheus Gomes Costa Teixeira
-
-Erick Bruno Ferreira dos Santos
-
-Luan Rodrigues de Souza
+---
